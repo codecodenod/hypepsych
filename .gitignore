@@ -1,0 +1,14 @@
+# Streamlit
+.streamlit/
+*.db
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+# Other
+*.log
+*.backup
